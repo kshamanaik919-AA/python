@@ -22,6 +22,6 @@ FinGram is a Machine Learning project that analyzes user spending behavior and p
 3. Run the Python file.
 
 ## Author
-Anusha Naik
-Amrutha P
-GnanaJyoti B
+1. Anusha Naik
+2. Amrutha P
+3. GnanaJyoti B
